@@ -1,5 +1,4 @@
 requests
 uuid
 cryptography
-threading
 proxyscrape
